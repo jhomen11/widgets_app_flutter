@@ -35,4 +35,14 @@ class MenuItem {
         subTitle: 'Indicadores en pantalla',
         link: '/snackbars',
         icon: Icons.info_outline),
+
+    MenuItem(title: 'UI Controls',
+        subTitle: 'Ui Controls en Flutter',
+        link: '/ui-controls',
+        icon: Icons.car_rental_outlined),
+
+    MenuItem(title: 'App Tutorial',
+        subTitle: 'App Tutorial en Flutter',
+        link: '/app-tutorial',
+        icon: Icons.school_outlined),
   ];
