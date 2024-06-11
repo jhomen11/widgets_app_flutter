@@ -45,4 +45,9 @@ class MenuItem {
         subTitle: 'App Tutorial en Flutter',
         link: '/app-tutorial',
         icon: Icons.school_outlined),
+
+    MenuItem(title: 'InfiniteScroll y pull',
+        subTitle: 'InfiniteScroll and pull to refresh en Flutter',
+        link: '/infinite',
+        icon: Icons.school_outlined),
   ];

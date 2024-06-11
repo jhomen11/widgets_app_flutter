@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class ProgressScreen extends StatelessWidget {
   const ProgressScreen({super.key});
@@ -18,9 +17,7 @@ class ProgressScreen extends StatelessWidget {
 }
 
 class _ProgressView extends StatelessWidget {
-  const _ProgressView({
-    super.key,
-  });
+  const _ProgressView();
 
   @override
   Widget build(BuildContext context) {
